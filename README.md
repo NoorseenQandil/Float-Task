@@ -17,7 +17,7 @@ Float task is a very simple task by using HTML, CSS to apply float property in C
 ## Live Demo
 Experience the Tabs Project in action! Click the link below to access the live demo:
 
-[Live Demo] (https://noorseenqandil.github.io/Our-Products-display-task/)
+[Live Demo] (https://noorseenqandil.github.io/Float-Task/)
 
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
